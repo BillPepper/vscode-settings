@@ -1,0 +1,39 @@
+{
+  "window.menuBarVisibility": "toggle",
+  "workbench.activityBar.visible": false,
+  "workbench.colorTheme": "Zenburn",
+  "window.zoomLevel": -1,
+  "editor.formatOnSave": true,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  "editor.fontSize": 13,
+  "editor.cursorSmoothCaretAnimation": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tabSize": 2,
+  "highlight-matching-tag.styles": {
+    "opening": {
+      "name": {
+        "surround": "#00bbbbaa"
+      }
+    }
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.minimap.enabled": false,
+  "vim.statusBarColorControl": true,
+  "vim.statusBarColors.normal": [
+    "#333333",
+    "#999999"
+  ],
+  "vim.statusBarColors.insert": "#538a25",
+  "vim.statusBarColors.visual": [
+    "#d1ab2e",
+    "#333333"
+  ],
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#538a25",
+    "statusBar.noFolderBackground": "#538a25",
+    "statusBar.debuggingBackground": "#538a25"
+  }
+}
